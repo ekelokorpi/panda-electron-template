@@ -1,0 +1,14 @@
+{
+    "name": "panda-electron-template",
+    "version": "1.0.0",
+    "description": "Electron template for Panda 2",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/ekelokorpi/panda-electron-template",
+    "author": "Eemeli Kelokorpi",
+    "devDependencies": {
+        "electron": "^3.0.10"
+    }
+}
